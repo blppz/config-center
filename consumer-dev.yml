@@ -1,5 +1,5 @@
 server:
-  port: 8888
+  port: 8800
 
 spring:
   application:
@@ -39,3 +39,6 @@ management:
     web:
       exposure:
         include: "*"
+
+# 用来测试能否通过配置中心更新配置
+configText: park111
