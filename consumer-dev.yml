@@ -41,4 +41,4 @@ management:
         include: "*"
 
 # 用来测试能否通过配置中心更新配置
-configText: park222
+configText: park111
